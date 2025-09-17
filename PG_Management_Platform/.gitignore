@@ -1,0 +1,11 @@
+﻿# Ignore Visual Studio folder
+.vs/
+*.vsidx
+
+# Build folders
+bin/
+obj/
+
+# User-specific files
+*.user
+*.suo
